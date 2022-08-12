@@ -31,6 +31,7 @@ public class HomePageTest extends BaseTest{
 		
 		
 		hp.logout();
+		System.out.println("test pass");
 	}
 
 }
